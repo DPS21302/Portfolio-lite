@@ -68,3 +68,9 @@
         padding: 2rem 1rem;
     }
 }
+@media screen and (max-width: 300px){
+    .experience__details {
+        height: "18px";
+        width: "18px";
+    }
+}
